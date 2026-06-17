@@ -24,6 +24,7 @@ Welcome to my CodSoft Java Development Internship repository. This repository co
 * Check account balance.
 * Deposit and withdraw money.
 * Input validation and account management using OOP concepts.
+--> TO RUN THE ATM INTERFACE Just Run The Main File .
 
 ## Technologies Used
 
